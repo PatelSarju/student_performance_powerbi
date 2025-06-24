@@ -1,5 +1,5 @@
 # 📷 Dashboard Preview
-<img src="./dashboard-preview.png" alt="Student Report Dashboard" width="900" />
+<img src="C:/development/Power BI/Practical Exam/Images/Screenshot 2025-06-24 100800.png" alt="Student Report Dashboard" width="900" />
 
 ---
 
